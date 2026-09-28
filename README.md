@@ -130,7 +130,7 @@ If something I build helps you, you can support my work and help me keep buildin
 
 <p align="center">
   <a href="https://paypal.me/BasilElmotaz">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-a-coffee&logoColor=black" />
+    <img src="https://img.shields.io/badge/Buy%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-a-coffee&logoColor=black" />
   </a>
 </p>
 
