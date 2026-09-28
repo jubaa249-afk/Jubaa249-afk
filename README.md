@@ -126,7 +126,7 @@ I’m interested in building and contributing to tools around:
 
 ☕ Support
 
-If something I build helps you, you can support my work and help me keep building.
+If you want , you can support .
 
 <p align="center">
   <a href="https://paypal.me/BasilElmotaz">
